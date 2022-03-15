@@ -1,0 +1,39 @@
+.navbar{
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.233);
+   
+    
+}
+.navbar .nav-item .nav-link{
+    color: #fff;
+   
+}
+.main-header{
+    background: url(../image/one.png);
+   
+    height: -1px;
+    background-size: cover;
+    min-height: 400px;
+    background-attachment: fixed;
+}
+.background-overlay{
+    position: relative;
+   background: rgba(1, 2, 3, 0.7) ;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+
+}
+.form-cotrol, .btn{
+    border-radius: 0;
+}
+.team, footer{
+    background: rgb(13, 15, 12);
+}
+.paragraphe{
+    text-align: center;
+    
+}
+.pb-5, .py-5 {
+    padding-bottom: 7rem!important;
+}
